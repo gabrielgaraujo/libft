@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Static libraries
+*.a
+
+# Executable files
+*.out
+
+# IDE files
+.vscode/
+
+# CMocka
+cmocka/
